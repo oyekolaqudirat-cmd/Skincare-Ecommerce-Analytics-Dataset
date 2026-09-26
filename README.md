@@ -272,7 +272,7 @@ The SQL analysis can be presented in Power BI through several dashboard pages.
 - AOV
   
 **Visuals**
-![]()
+![](https://github.com/oyekolaqudirat-cmd/Skincare-Ecommerce-Analytics-Dataset/blob/main/Exexutive%20Overview%20Skincare%20Dashboard.png)
 
 **Product Performance**
 
