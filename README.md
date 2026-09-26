@@ -54,6 +54,8 @@ Data was inspected for missing values, duplicate records, inconsistent data type
 
 The data model uses a relational structure where customer, order, product, review, and return tables are connected through their respective keys.
 
+![](https://github.com/oyekolaqudirat-cmd/Skincare-Ecommerce-Analytics-Dataset/blob/main/Skincare%20Analysis%20Data%20Modelling.png)
+
 #### Feature Engineering
 
 Several calculated columns were created to support the analysis.
