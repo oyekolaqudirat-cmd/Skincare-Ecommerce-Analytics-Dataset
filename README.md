@@ -294,7 +294,7 @@ The SQL analysis can be presented in Power BI through several dashboard pages.
 - At Risk Customers
 
 **Visuals**
-![]()
+![](https://github.com/oyekolaqudirat-cmd/Skincare-Ecommerce-Analytics-Dataset/blob/main/Customer%20Segmentation%20Skincare%20Dashboard.png)
 
 **Review and Return Analysis**
 
