@@ -44,9 +44,18 @@ This project analyzes an e-commerce skincare dataset to evaluate sales performan
 - High-CLV customers and CLV by segment
 - How much revenue was contributed by RFM segment
 
-  ### Dataset Description
+### Dataset Description
 
-  **Data Preparation & Cleaning**
+| Table | Description | Key Column|
+|------|------|------|
+| Customers| Customer information and purchasing metrics | Customer ID, Customer Name, City |
+| Orders | Order Information | Order ID, Order Status, Order Date |
+|Order Item | Ordered Items| Order Item ID, Product ID, Quantity |
+| Products | Product Level sales information| Product ID, Product Name, Category |
+| Returns |Returned Products/Orders | Return ID, Order ID, Return Status |
+| Reviews |Customers Review | Review ID, Customer ID, Rating |
+
+**Data Preparation & Cleaning**
   
 Data was inspected for missing values, duplicate records, inconsistent data types, and invalid values. Relationships were established between the relevant tables using primary and foreign keys.
 
@@ -305,7 +314,7 @@ The SQL analysis can be presented in Power BI through several dashboard pages.
 - Return Rate
 
 **Visuals**
-![]()
+![](https://github.com/oyekolaqudirat-cmd/Skincare-Ecommerce-Analytics-Dataset/blob/main/Reruen%20and%20review%20Skincare%20Dashboard.png)
 
 **Conclusion**
 
