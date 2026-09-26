@@ -283,7 +283,7 @@ The SQL analysis can be presented in Power BI through several dashboard pages.
 - Return Rate
 
 **Visuals**
-![]()
+![](https://github.com/oyekolaqudirat-cmd/Skincare-Ecommerce-Analytics-Dataset/blob/main/Product%20Performance%20Skincare%20Dashboard.png)
   
 **Customer Segmentation**
 
