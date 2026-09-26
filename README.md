@@ -44,6 +44,11 @@ This project analyzes an e-commerce skincare dataset to evaluate sales performan
 - High-CLV customers and CLV by segment
 - How much revenue was contributed by RFM segment
 
+**Data Source**
+
+A synthetic dataset that simulates the operation of Direct-to-Customer(D2C) skincare e-commerce business on kaggle.
+
+
 ### Dataset Description
 
 | Table | Description | Key Column|
