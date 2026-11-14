@@ -1,4 +1,6 @@
 # Skincare Ecommerce Analytics Dataset
+**Author:** Oyekola Qudiratullahi
+
 An SQL and Power BI analysis of sales performance, customer behavior, product performance, reviews, and returns
 
 **Table Of Content**
@@ -1328,5 +1330,10 @@ GROUP BY RFM_Segment
 --larger individual orders. They also purchased a total of 44,711 units.
 ```
 
+## Author
 
+**Qudiratullahi Oyekola**
+Data Analyst | SQL, Power BI, Python, Excel
+
+Email: oyekolaqudirat582@gmail.com
 
